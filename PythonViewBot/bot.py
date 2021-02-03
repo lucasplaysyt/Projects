@@ -7,7 +7,7 @@ from selenium import webdriver;
 Timer = 35
 
 #youtube link
-link = 'https://youtu.be/9v8VD11-Zpw'
+link = 'https://www.youtube.com/watch?v=967YS6i7vrc'
 
 #number of views
 views = 9999
